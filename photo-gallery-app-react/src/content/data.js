@@ -1,0 +1,65 @@
+export const data = [
+    {
+        "name": "Photo 1",
+        "url": "/images/3-spider.jpg",
+        "description": "Photo 1 description",
+        "date": "2020-01-01",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Photo 2",
+        "url": "/images/amazing-rain.jpg",
+        "description": "Photo 2 description",
+        "date": "2020-01-02",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Photo 3",
+        "url": "/images/black-suit.jpeg",
+        "description": "Photo 3 description",
+        "date": "2020-01-03",
+        "type": "image/jpeg",
+    },
+    {
+        "name": "Photo 4",
+        "url": "/images/into-spider-verse.jpg",
+        "description": "Photo 4 description",
+        "date": "2020-01-04",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Photo 5",
+        "url": "/images/miles-power.jpeg",
+        "description": "Photo 5 description",
+        "date": "2020-01-05",
+        "type": "image/jpeg",
+    },
+    {
+        "name": "Photo 6",
+        "url": "/images/peter-miles.jpeg",
+        "description": "Photo 6 description",
+        "date": "2020-01-06",
+        "type": "image/jpeg",
+    },
+    {
+        "name": "Photo 7",
+        "url": "/images/spider-logo.jpg",
+        "description": "Photo 7 description",
+        "date": "2020-01-07",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Photo 8",
+        "url": "/images/spider-man-black-suit.jpeg",
+        "description": "Photo 8 description",
+        "date": "2020-01-08",
+        "type": "image/jpeg",
+    },
+    {
+        "name": "Photo 9",
+        "url": "/images/with-great-power.jpg",
+        "description": "Photo 9 description",
+        "date": "2020-01-09",
+        "type": "image/jpg",
+    }
+]
